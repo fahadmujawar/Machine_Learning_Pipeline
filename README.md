@@ -63,7 +63,7 @@ The **ML Complete Project** goes deeper into the advanced stages of machine lear
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourGithubUsername/YourRepoName.git
+    
     ```
 2. Open the notebook:
     ```bash
