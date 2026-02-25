@@ -29,7 +29,7 @@ In this part, I demonstrate:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourGithubUsername/YourRepoName.git
+    git clone https://github.com/fahadmujawar/Machine_Learning_Pipeline
     ```
 2. Open the notebook:
     ```bash
